@@ -28,6 +28,7 @@ See what Owl can do:
 * [Full Width](http://owlgraphic.com/owlcarousel/demos/full.html)
 * [Custom Widths](http://owlgraphic.com/owlcarousel/demos/custom.html)
 * [One Item](http://owlgraphic.com/owlcarousel/demos/one.html)
+* [JSON](http://owlgraphic.com/owlcarousel/demos/json.html)
 * [More demos](http://owlgraphic.com/owlcarousel/#more-demos)
 
 ### 1.Getting Started
